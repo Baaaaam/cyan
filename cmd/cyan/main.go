@@ -17,10 +17,10 @@ import (
 	"text/template"
 
 	"code.google.com/p/go-uuid/uuid"
-	"github.com/rwcarlsen/cyan/nuc"
-	"github.com/rwcarlsen/cyan/post"
-	"github.com/rwcarlsen/cyan/query"
-	_ "github.com/rwcarlsen/go-sqlite3"
+	"github.com/baaaaam/cyan/nuc"
+	"github.com/baaaaam/cyan/post"
+	"github.com/baaaaam/cyan/query"
+	_ "github.com/baaaaam/go-sqlite3"
 )
 
 var (

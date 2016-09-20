@@ -6,7 +6,7 @@ import (
 	"log"
 	"math"
 
-	"github.com/rwcarlsen/cyan/query"
+	"github.com/baaaaam/cyan/query"
 )
 
 // The number of sql commands to buffer before dumping to the output database.

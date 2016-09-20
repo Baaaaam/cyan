@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rwcarlsen/cyan/gone"
+	"github.com/baaaaam/cyan/gone"
 )
 
 var shownuc = flag.Bool("shownuc", true, "print corresponding nuclide next to each value")

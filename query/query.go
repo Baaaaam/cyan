@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/rwcarlsen/cyan/nuc"
+	"github.com/baaaaam/cyan/nuc"
 )
 
 // SimIds returns a list of all simulation ids in the cyclus database for

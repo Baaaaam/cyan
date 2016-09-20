@@ -8,7 +8,7 @@
 			"revisionTime": "2014-12-02T10:54:02-06:00"
 		},
 		{
-			"path": "github.com/rwcarlsen/go-sqlite3",
+			"path": "github.com/baaaaam/go-sqlite3",
 			"revision": "4a19b02ce576b8a519cec0b2d664e1b02a141376",
 			"revisionTime": "2016-02-22T10:34:44-06:00",
 			"tree": true
